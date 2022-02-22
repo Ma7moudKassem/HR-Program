@@ -7,10 +7,10 @@
 //salary according to the following formulas In case the
 
 
-//job = 'Manager'? salary      = 5000
+//job = 'Manager'> salary      = 5000
 //job = 'Engineer' > salary    = 3000
-//job = "Clerck' ? salary      = 2000
-//Otherwise ? salary           = 1000
+//job = "Clerck' > salary      = 2000
+//Otherwise > salary           = 1000
 
 
 //2. Function to set the bonus value for a specific employee
